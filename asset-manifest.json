@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rossven-githubpage/static/css/main.f855e6bc.css",
-    "main.js": "/rossven-githubpage/static/js/main.afde6d49.js",
+    "main.js": "/rossven-githubpage/static/js/main.3d0cdcae.js",
     "static/js/453.2147c5f2.chunk.js": "/rossven-githubpage/static/js/453.2147c5f2.chunk.js",
     "static/media/logo.svg": "/rossven-githubpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rossven-githubpage/index.html",
     "main.f855e6bc.css.map": "/rossven-githubpage/static/css/main.f855e6bc.css.map",
-    "main.afde6d49.js.map": "/rossven-githubpage/static/js/main.afde6d49.js.map",
+    "main.3d0cdcae.js.map": "/rossven-githubpage/static/js/main.3d0cdcae.js.map",
     "453.2147c5f2.chunk.js.map": "/rossven-githubpage/static/js/453.2147c5f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.afde6d49.js"
+    "static/js/main.3d0cdcae.js"
   ]
 }
